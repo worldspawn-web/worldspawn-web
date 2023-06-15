@@ -1,8 +1,4 @@
 <h1>I'm Michael and I'm a Frontend Developer ;)</h1>
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=worldspawn-web&icon=0&color=0)](https://visitcount.itsvg.in)
-<hr>
 Used to be a hospitality enthusiast, but decided to switch to Development :)
 Frontend suits me more than anything else, due to my experience with web in the past. I used to create websites for several projects, while being in school/university. While some of them were based on constructor sites (like Tilda or Wix), others were performed with HTML and vanilla CSS.
 
@@ -17,6 +13,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Portfolio</h3>
 1. Console game [Brain-Games](https://github.com/worldspawn-web/frontend-project-44)
+<br>
 2. [Simple Difference Calculator](https://github.com/worldspawn-web/frontend-project-46)
 
 <h3>Work in Progress (WIP)</h3>
