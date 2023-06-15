@@ -13,7 +13,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Portfolio</h3>
 
-1. Console game [Brain-Games](https://github.com/worldspawn-web/frontend-project-44)
+1. [Brain-Games - Console Brain Trainer](https://github.com/worldspawn-web/frontend-project-44)
 2. [Simple Difference Calculator](https://github.com/worldspawn-web/frontend-project-46)
 
 <h3>Work in Progress (WIP)</h3>
