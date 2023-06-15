@@ -1,6 +1,4 @@
-<h1>Michael Lozitckii</h1>
-<br>
-<h2>Frontend developer</h2>
+<h1>I'm Michael and I'm a Frontend Developer ;)</h1>
 <br>
 [![](https://visitcount.itsvg.in/api?id=worldspawn-web&icon=0&color=0)](https://visitcount.itsvg.in)
 <hr>
