@@ -25,11 +25,8 @@ Frontend suits me more than anything else, due to my experience with web in the 
 - Telegram "Sea Fight" game via bot
 
 ...and much more
-
-📊 GitHub Stats:
 <br>
-![](https://github-readme-stats.vercel.app/api?username=worldspawn-web&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=worldspawn-web&theme=ayu-mirage&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=worldspawn-web&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
