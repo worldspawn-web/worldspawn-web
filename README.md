@@ -17,6 +17,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 2. [Simple Difference Calculator](https://github.com/worldspawn-web/frontend-project-46)
 
 <h3>Work in Progress (WIP)</h3>
+
 - Personal RSS reader
 - Chat app on sockets (React.js)
 - Russian Conspiracy website (with Duolingo-like progression)
