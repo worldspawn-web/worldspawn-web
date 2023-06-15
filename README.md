@@ -12,6 +12,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git)](https://skillicons.dev)
 
 <h3>Portfolio</h3>
+
 1. Console game [Brain-Games](https://github.com/worldspawn-web/frontend-project-44)
 <br>
 2. [Simple Difference Calculator](https://github.com/worldspawn-web/frontend-project-46)
