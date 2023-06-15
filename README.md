@@ -1,5 +1,6 @@
 Michael Lozitckii
 Frontend developer
+[![](https://visitcount.itsvg.in/api?id=worldspawn-web&icon=0&color=0)](https://visitcount.itsvg.in)
 <hr>
 Used to be a hospitality enthusiast, but decided to switch to Development :)
 Frontend suits me more than anything else, due to my experience with web in the past. I used to create websites for several projects, while being in school/university. While some of them were based on constructor sites (like Tilda or Wix), others were performed with HTML and vanilla CSS.
@@ -28,11 +29,3 @@ Frontend suits me more than anything else, due to my experience with web in the 
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=worldspawn-web&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=worldspawn-web&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
