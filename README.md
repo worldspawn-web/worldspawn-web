@@ -5,7 +5,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 <br>
 
 - 🌍 I'm based in Moscow, Russia.
-- ✉️ You can contact me at [Telegram](mailto:https://t.me/worldspawn)
+- ✉️ You can contact me at [Telegram](https://t.me/worldspawn)
 - 🧠 I'm currently learning React.js & Typescript.
 - 🤝 I'm open for any collaborations
 
