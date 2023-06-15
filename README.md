@@ -11,7 +11,10 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,gulp)](https://skillicons.dev)
+
+<h4>Other Skills</h4>
+[![My Skills](https://skillicons.dev/icons?i=blender,figma,ps,pr](https://skillicons.dev)
 
 <h3>Portfolio</h3>
 
