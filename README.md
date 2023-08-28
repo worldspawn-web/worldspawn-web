@@ -11,7 +11,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,gulp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,git,gulp)](https://skillicons.dev)
 
 <h4>Other Skills</h4>
 
@@ -19,8 +19,8 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Portfolio</h3>
 
-1. [Brain-Games - Console Brain Trainer](https://github.com/worldspawn-web/frontend-project-44)
-2. [Simple Difference Calculator](https://github.com/worldspawn-web/frontend-project-46)
+1. [Console-Games - Games inside Terminal](https://github.com/worldspawn-web/frontend-project-44)
+2. [Simple File Difference Calculator](https://github.com/worldspawn-web/frontend-project-46)
 
 <h3>Work in Progress (WIP)</h3>
 
