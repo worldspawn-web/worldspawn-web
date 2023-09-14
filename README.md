@@ -19,7 +19,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Portfolio</h3>
 
-1. [Console-Games - Games inside Terminal](https://github.com/worldspawn-web/frontend-project-44)
+1. [Console-Games - Terminal Games](https://github.com/worldspawn-web/console-games)
 2. [Simple File Difference Calculator](https://github.com/worldspawn-web/frontend-project-46)
 
 <h3>Work in Progress (WIP)</h3>
