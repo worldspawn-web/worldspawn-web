@@ -6,7 +6,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 - 🌍 I'm based in Moscow, Russia.
 - ✉️ You can contact me at [Telegram](https://t.me/worldspawn)
-- 🧠 I'm currently learning React.js & Typescript.
+- 🧠 I'm currently learning Advanced React.js & Typescript.
 - 🤝 I'm open for any collaborations
 
 <h3>Skills</h3>
@@ -19,16 +19,17 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Portfolio</h3>
 
-1. [Console-Games - Terminal Games](https://github.com/worldspawn-web/console-games)
-2. [Simple File Difference Calculator](https://github.com/worldspawn-web/frontend-project-46)
+1. [RSS Aggregator (JS, Bootstrap, Webpack, Axios, i18n, yup)](https://github.com/worldspawn-web/rss-aggregator)
+2. [Simple File Difference Calculator (JS, Lodash, Jest, Commander)](https://github.com/worldspawn-web/frontend-project-46)
 
 <h3>Work in Progress (WIP)</h3>
 
-- Personal RSS reader
 - Chat app on sockets (React.js)
-- Russian Conspiracy website (with Duolingo-like progression)
-- Auto-Mod Manager for Euro Truck Simulator 2 (Electron.js)
-- Telegram "Sea Fight" game via bot
+- Auto-Mod Manager for Euro Truck Simulator 2 (React.Native)
+- Russian Conspiracy website with Duolingo-like progression (React.js, Tailwind)
+- Worldwide Paranormal Sightings (React.js)
+- Telegram "Sea Fight" Game for Commercial Usage
+- .VMF Files Generator for SourceEngine
 
 ...and much more
 <br>
