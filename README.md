@@ -19,7 +19,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Portfolio</h3>
 
-1. [SpawnTalk - Simple Slack-based messenger (JS, React, Redux TK, Bootstrap, Formik, Socket.io ...)]()
+1. [SpawnTalk - Simple Slack-based messenger (JS, React, Redux TK, Bootstrap, Formik, Socket.io ...)](https://github.com/worldspawn-web/frontend-project-12)
 2. [RSS Aggregator (JS, Bootstrap, Webpack, Axios, i18n, yup)](https://github.com/worldspawn-web/rss-aggregator)
 3. [File Difference Calculator (JS, Lodash, Jest, Commander)](https://github.com/worldspawn-web/frontend-project-46)
 
