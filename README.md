@@ -19,12 +19,14 @@ Frontend suits me more than anything else, due to my experience with web in the 
 
 <h3>Portfolio</h3>
 
-1. [RSS Aggregator (JS, Bootstrap, Webpack, Axios, i18n, yup)](https://github.com/worldspawn-web/rss-aggregator)
-2. [Simple File Difference Calculator (JS, Lodash, Jest, Commander)](https://github.com/worldspawn-web/frontend-project-46)
+1. [SpawnTalk - Simple Slack-based messenger (JS, React, Redux TK, Bootstrap, Formik, Socket.io ...)]()
+2. [RSS Aggregator (JS, Bootstrap, Webpack, Axios, i18n, yup)](https://github.com/worldspawn-web/rss-aggregator)
+3. [File Difference Calculator (JS, Lodash, Jest, Commander)](https://github.com/worldspawn-web/frontend-project-46)
 
 <h3>Work in Progress (WIP)</h3>
 
-- Chat app on sockets (React.js)
+- [Music App - Web (TS, React, Redux TK, Vite, Nodemon, Axios, Zod, Storybook)](https://github.com/Canfus/music-app)
+- [OBC Moderation Discord Bot (JS)](https://github.com/worldspawn-web/obc-discord-bot)
 - Auto-Mod Manager for Euro Truck Simulator 2 (React.Native)
 - Russian Conspiracy website with Duolingo-like progression (React.js, Tailwind)
 - Worldwide Paranormal Sightings (React.js)
