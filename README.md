@@ -36,5 +36,10 @@ Frontend suits me more than anything else, due to my experience with web in the 
 ...and much more
 <br>
 
+<p>
+
 ![Codewars badge](https://www.codewars.com/users/worldspawn/badges/small)
+
+</p>
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=worldspawn-web&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
