@@ -26,7 +26,7 @@ Frontend suits me more than anything else, due to my experience with web in the 
 <h3>Work in Progress (WIP)</h3>
 
 - [Music App - Web (TS, React, Redux TK, Vite, Nodemon, Axios, Zod, Storybook)](https://github.com/Canfus/music-app)
-- [OBC Moderation Discord Bot (JS)](https://github.com/worldspawn-web/obc-discord-bot)
+- [OBC Moderation Discord Bot (JS, Discord.js)](https://github.com/worldspawn-web/obc-discord-bot)
 - Auto-Mod Manager for Euro Truck Simulator 2 (React.Native)
 - Russian Conspiracy website with Duolingo-like progression (React.js, Tailwind)
 - Worldwide Paranormal Sightings (React.js)
