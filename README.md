@@ -1,14 +1,12 @@
 <h1>QA + Frontend 💞</h1>
-<br>
 
 - 🌍 I'm based in Moscow, Russia.
 - ✉️ You can contact me at [Telegram](https://t.me/worldspawn)
-- 🧠 I'm currently learning Advanced React.js & Typescript.
 - 🤝 I'm open for any collaborations
 
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,webpack,vite,html,css,scss,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,js,ts,react,redux,webpack,vite,html,css,scss,bootstrap,git,styledcomponents,gulp&perline=7)](https://skillicons.dev)
 
 <h4>Other Skills</h4>
 
