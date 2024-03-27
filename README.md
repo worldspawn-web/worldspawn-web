@@ -1,7 +1,4 @@
-<h1>I'm Michael and I'm a Frontend Developer ;)</h1>
-Used to be a hospitality enthusiast, but decided to switch into development :)
-Frontend suits me more than anything else, due to my experience with web in the past. I used to create websites for several projects, while being in school/university. While some of them were based on constructor sites (like Tilda or Wix), others were performed with HTML and vanilla CSS.
-<br>
+<h1>QA + Frontend 💞</h1>
 <br>
 
 - 🌍 I'm based in Moscow, Russia.
