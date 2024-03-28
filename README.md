@@ -1,4 +1,4 @@
-<h1>QA + Frontend 💞</h1>
+<h1>Frontend Developer</h1>
 
 - 🌍 I'm based in Moscow, Russia.
 - ✉️ You can contact me at [Telegram](https://t.me/worldspawn)
