@@ -6,8 +6,6 @@
 
 [![Other Skills](https://skillicons.dev/icons?i=blender,figma,ps,pr)](https://skillicons.dev)
 
-<br>
-
 <p>
 
 ![Codewars badge](https://www.codewars.com/users/worldspawn/badges/small)
