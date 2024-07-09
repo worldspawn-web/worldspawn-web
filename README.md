@@ -1,10 +1,10 @@
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postman,js,ts,react,redux,webpack,vite,html,css,scss,bootstrap,git,styledcomponents,gulp&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,js,ts,react,webpack,vite,html,css,scss,bootstrap,git,styledcomponents&perline=6)](https://skillicons.dev)
 
 <h4>Other Skills</h4>
 
-[![Other Skills](https://skillicons.dev/icons?i=blender,figma,ps,pr)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=blender,figma,ps,pr,unity)](https://skillicons.dev)
 
 <p>
 
